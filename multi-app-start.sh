@@ -1,0 +1,21 @@
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8080 &
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8081 &
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8082 &
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8083 &
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8084 &
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8085 &
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8086 &
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8087 &
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8088 &
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8089 &
+
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8180 &
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8181 &
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8182 &
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8183 &
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8184 &
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8185 &
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8186 &
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8187 &
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8188 &
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar --server.port=8189 &
